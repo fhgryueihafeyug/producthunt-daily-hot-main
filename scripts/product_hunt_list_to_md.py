@@ -160,6 +160,21 @@ class Product:
         beijing_time = utc_time.replace(tzinfo=pytz.utc).astimezone(beijing_tz)
         return beijing_time.strftime('%Y年%m月%d日 %p%I:%M (北京时间)')
 
+    def to_dict(self):
+        """返回产品数据的字典格式"""
+        return {
+            "name": self.name,
+            "tagline": self.translated_tagline,
+            "description": self.translated_description,
+            "votes_count": self.votes_count,
+            "created_at": self.created_at,
+            "featured": self.featured,
+            "website": self.website,
+            "url": self.url,
+            "image_url": self.og_image_url,
+            "keywords": self.keyword
+        }
+
     def to_markdown(self, rank: int) -> str:
         """返回产品数据的Markdown格式"""
         og_image_markdown = f"![{self.name}]({self.og_image_url})"
