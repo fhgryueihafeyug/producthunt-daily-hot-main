@@ -8,8 +8,8 @@
 
 ![Atlas.new](https://ph-files.imgix.net/6726a66e-2e5f-430b-a4c3-4c7188bfd3c1.png?auto=format)
 
-**关键词**：Atlas.new, The AI agent for maps and spatial data
-**票数**: 🔺449
+**关键词**：The AI agent for maps and spatial data, Atlas.new
+**票数**: 🔺451
 **是否精选**：是
 **发布时间**：2026年01月12日 PM04:01 (北京时间)
 
@@ -23,8 +23,8 @@
 
 ![PicKey AI](https://ph-files.imgix.net/ea051d6e-cd96-43c2-9d85-be94c0a13b0a.png?auto=format)
 
-**关键词**：PicKey AI, Secure your master password with a fun memory you love!
-**票数**: 🔺328
+**关键词**：Secure your master password with a fun memory you love!, PicKey AI
+**票数**: 🔺329
 **是否精选**：是
 **发布时间**：2026年01月12日 PM04:01 (北京时间)
 
@@ -38,7 +38,7 @@
 
 ![Trophy 1.0](https://ph-files.imgix.net/96757e99-87c3-4853-8155-037fce24ce27.png?auto=format)
 
-**关键词**：ranks, badges, Developer APIs for gamification: streaks, Trophy 1.0, XP
+**关键词**：badges, Trophy 1.0, ranks, Developer APIs for gamification: streaks, XP
 **票数**: 🔺327
 **是否精选**：是
 **发布时间**：2026年01月12日 PM04:01 (北京时间)
@@ -53,7 +53,7 @@
 
 ![Superdesign Prompt Library](https://ph-files.imgix.net/8f014500-a05b-41f3-99da-686dbbf1a72f.jpeg?auto=format)
 
-**关键词**：Superdesign Prompt Library, animation, Design prompts for style, components
+**关键词**：animation, components, Design prompts for style, Superdesign Prompt Library
 **票数**: 🔺296
 **是否精选**：是
 **发布时间**：2026年01月12日 PM04:01 (北京时间)
@@ -83,7 +83,7 @@
 
 ![Adject v1.5](https://ph-files.imgix.net/9a37d416-d2ff-47a9-bb4d-8bd62fda6d08.png?auto=format)
 
-**关键词**：videos instantly, Adject v1.5, Create hyper, realistic product images
+**关键词**：realistic product images, videos instantly, Adject v1.5, Create hyper
 **票数**: 🔺148
 **是否精选**：是
 **发布时间**：2026年01月12日 PM04:01 (北京时间)
@@ -98,7 +98,7 @@
 
 ![Corgi Insurance](https://ph-files.imgix.net/4aeabc27-5172-40c3-8fdd-0592d6bbe99f.png?auto=format)
 
-**关键词**：Modular coverage for startups: CGL, Corgi Insurance, D, O, Tech E, Cyber
+**关键词**：D, O, Tech E, Corgi Insurance, Cyber, Modular coverage for startups: CGL
 **票数**: 🔺147
 **是否精选**：是
 **发布时间**：2026年01月12日 PM04:01 (北京时间)
@@ -188,7 +188,7 @@
 
 ![HuHu AI Studio Team Version](https://ph-files.imgix.net/674d8d70-6fd8-4884-9db5-613e679f10f2.jpeg?auto=format)
 
-**关键词**：HuHu AI Studio Team Version, Enterprise, grade AI studio for bulk fashion content creation
+**关键词**：grade AI studio for bulk fashion content creation, HuHu AI Studio Team Version, Enterprise
 **票数**: 🔺39
 **是否精选**：否
 **发布时间**：2026年01月12日 PM04:01 (北京时间)
@@ -203,7 +203,7 @@
 
 ![Map Your Voyage](https://ph-files.imgix.net/8a2cdf5e-4412-4ce2-aeea-d75bcaa4376e.png?auto=format)
 
-**关键词**：Map Your Voyage, not weeks, Plan trips from Instagram reels in minutes
+**关键词**：not weeks, Plan trips from Instagram reels in minutes, Map Your Voyage
 **票数**: 🔺38
 **是否精选**：否
 **发布时间**：2026年01月12日 PM04:01 (北京时间)
@@ -218,7 +218,7 @@
 
 ![aOCR](https://ph-files.imgix.net/a9f4663a-f75c-49f9-81f8-a27df77adfd4.png?auto=format)
 
-**关键词**：aOCR, API for converting complex documents into structured data
+**关键词**：API for converting complex documents into structured data, aOCR
 **票数**: 🔺36
 **是否精选**：否
 **发布时间**：2026年01月12日 PM04:01 (北京时间)
@@ -234,7 +234,7 @@
 ![Surfn AI](https://ph-files.imgix.net/20aa224a-f134-4223-81c5-51227d2ff78c.png?auto=format)
 
 **关键词**：Surfn AI, Build beautiful AI agent pages from your content in minutes
-**票数**: 🔺33
+**票数**: 🔺32
 **是否精选**：否
 **发布时间**：2026年01月12日 PM04:01 (北京时间)
 
@@ -270,22 +270,7 @@
 
 ---
 
-## [19. Vemory](https://www.producthunt.com/products/vemory-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
-**标语**：AI meeting-Stop Taking Notes. Start Taking Action.
-**介绍**：Vemory automates your meetings with AI-powered intelligence, enabling seamless global video collaboration. Voice recognition, automatic summarization, task assignment,Focus on what matters while we handle the rest.
-**产品网站**: [立即访问](https://www.producthunt.com/r/F5KYSLO6EFWSBD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
-**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/products/vemory-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
-
-![Vemory](https://ph-files.imgix.net/c4d40d4e-bc8d-44f3-a1bd-662308d4b313.png?auto=format)
-
-**关键词**：AI meeting, Stop Taking Notes. Start Taking Action., Vemory
-**票数**: 🔺20
-**是否精选**：否
-**发布时间**：2026年01月12日 PM04:01 (北京时间)
-
----
-
-## [20. Relaunch of The Mentoring Club](https://www.producthunt.com/products/the-mentoring-club?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
+## [19. Relaunch of The Mentoring Club](https://www.producthunt.com/products/the-mentoring-club?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
 **标语**：Career mentoring reimagined. Free sessions. Global experts.
 **介绍**：Mentoring Club connects you with 8,000+ vetted mentors from Google, Meta, McKinsey & top startups across 160+ countries. Book free community sessions or premium coaching. AI-powered matching finds your perfect mentor in seconds.
 **产品网站**: [立即访问](https://www.producthunt.com/r/PN46U24J6T6XON?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
@@ -294,6 +279,21 @@
 ![Relaunch of The Mentoring Club](https://ph-files.imgix.net/1242209a-b438-4e92-9356-a47969553409.png?auto=format)
 
 **关键词**：Relaunch of The Mentoring Club, Career mentoring reimagined. Free sessions. Global experts.
+**票数**: 🔺20
+**是否精选**：否
+**发布时间**：2026年01月12日 PM04:01 (北京时间)
+
+---
+
+## [20. Vemory](https://www.producthunt.com/products/vemory-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
+**标语**：AI meeting-Stop Taking Notes. Start Taking Action.
+**介绍**：Vemory automates your meetings with AI-powered intelligence, enabling seamless global video collaboration. Voice recognition, automatic summarization, task assignment,Focus on what matters while we handle the rest.
+**产品网站**: [立即访问](https://www.producthunt.com/r/F5KYSLO6EFWSBD?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
+**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/products/vemory-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
+
+![Vemory](https://ph-files.imgix.net/c4d40d4e-bc8d-44f3-a1bd-662308d4b313.png?auto=format)
+
+**关键词**：Vemory, Stop Taking Notes. Start Taking Action., AI meeting
 **票数**: 🔺20
 **是否精选**：否
 **发布时间**：2026年01月12日 PM04:01 (北京时间)
@@ -323,14 +323,44 @@
 
 ![EZTest (Easy Test)](https://ph-files.imgix.net/dfe33c2f-13f9-4a53-8ae7-e2531b6ce0d6.png?auto=format)
 
-**关键词**：Open Source Alternative to TestRail or Testiny, Lightweight, EZTest (Easy Test)
+**关键词**：Open Source Alternative to TestRail or Testiny, EZTest (Easy Test), Lightweight
 **票数**: 🔺17
 **是否精选**：否
 **发布时间**：2026年01月12日 PM04:01 (北京时间)
 
 ---
 
-## [23. Checkmarx Developer Assist for AI IDEs](https://www.producthunt.com/products/checkmarx?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
+## [23. Video Quality Enhancer](https://www.producthunt.com/products/video-quality-enhancer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
+**标语**：Turn low-resolution video into 4K-ready quality
+**介绍**：Video Quality Enhancer is an AI-powered tool that upscales, denoises, and restores low-quality videos. Turn blurry, noisy footage into sharp, smooth, high-resolution video in just one click, no software or technical skills required.
+**产品网站**: [立即访问](https://www.producthunt.com/r/XFC2MEU3EXEP2R?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
+**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/products/video-quality-enhancer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
+
+![Video Quality Enhancer](https://ph-files.imgix.net/e5476373-e584-4639-a9b1-ab5bd71645b5.jpeg?auto=format)
+
+**关键词**：Video Quality Enhancer, ready quality, Turn low, resolution video into 4K
+**票数**: 🔺8
+**是否精选**：否
+**发布时间**：2026年01月12日 PM04:01 (北京时间)
+
+---
+
+## [24. SubLeadIt](https://www.producthunt.com/products/subleadit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
+**标语**：Automate Reddit replies, DMs, and posts that drive customers
+**介绍**：SubLeadIt turns Reddit into a customer acquisition engine without manual work. It automatically finds high-intent Reddit conversations, posts replies and DMs that follow subreddit rules, warms up accounts safely, and generates AI posts that get noticed. Perfect for founders, marketers, and agencies who want scalable Reddit growth without daily effort.
+**产品网站**: [立即访问](https://www.producthunt.com/r/3XADPGSVO6HZBO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
+**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/products/subleadit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
+
+![SubLeadIt](https://ph-files.imgix.net/21a36f79-d221-4975-845d-573bfda0a3dc.jpeg?auto=format)
+
+**关键词**：DMs, and posts that drive customers, Automate Reddit replies, SubLeadIt
+**票数**: 🔺8
+**是否精选**：否
+**发布时间**：2026年01月12日 PM04:01 (北京时间)
+
+---
+
+## [25. Checkmarx Developer Assist for AI IDEs](https://www.producthunt.com/products/checkmarx?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
 **标语**：Security linter for vibe coding: fix vulns as you build
 **介绍**：Checkmarx Developer Assist is an agentic application security companion that works inside your IDE to prevent and remediate vulnerabilities in real time. Built for AI-driven development, it detects issues in AI-generated code, explains risk, and delivers safe, non-breaking fixes directly in Cursor, Windsurf, AWS Kiro, VS Code — without breaking developer flow.
 **产品网站**: [立即访问](https://www.producthunt.com/r/RES7CKQBCFGU5P?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
@@ -345,36 +375,6 @@
 
 ---
 
-## [24. Video Quality Enhancer](https://www.producthunt.com/products/video-quality-enhancer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
-**标语**：Turn low-resolution video into 4K-ready quality
-**介绍**：Video Quality Enhancer is an AI-powered tool that upscales, denoises, and restores low-quality videos. Turn blurry, noisy footage into sharp, smooth, high-resolution video in just one click, no software or technical skills required.
-**产品网站**: [立即访问](https://www.producthunt.com/r/XFC2MEU3EXEP2R?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
-**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/products/video-quality-enhancer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
-
-![Video Quality Enhancer](https://ph-files.imgix.net/e5476373-e584-4639-a9b1-ab5bd71645b5.jpeg?auto=format)
-
-**关键词**：Turn low, ready quality, resolution video into 4K, Video Quality Enhancer
-**票数**: 🔺8
-**是否精选**：否
-**发布时间**：2026年01月12日 PM04:01 (北京时间)
-
----
-
-## [25. SubLeadIt](https://www.producthunt.com/products/subleadit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
-**标语**：Automate Reddit replies, DMs, and posts that drive customers
-**介绍**：SubLeadIt turns Reddit into a customer acquisition engine without manual work. It automatically finds high-intent Reddit conversations, posts replies and DMs that follow subreddit rules, warms up accounts safely, and generates AI posts that get noticed. Perfect for founders, marketers, and agencies who want scalable Reddit growth without daily effort.
-**产品网站**: [立即访问](https://www.producthunt.com/r/3XADPGSVO6HZBO?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
-**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/products/subleadit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
-
-![SubLeadIt](https://ph-files.imgix.net/21a36f79-d221-4975-845d-573bfda0a3dc.jpeg?auto=format)
-
-**关键词**：DMs, Automate Reddit replies, SubLeadIt, and posts that drive customers
-**票数**: 🔺8
-**是否精选**：否
-**发布时间**：2026年01月12日 PM04:01 (北京时间)
-
----
-
 ## [26. Hetzman — Unofficial iOS app for Hetzner](https://www.producthunt.com/products/hetzman-unofficial-ios-app-for-hetzner?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
 **标语**：Manage Hetzner Cloud servers from your iPhone
 **介绍**：I built Hetzman because I needed it. Was working on side projects over the holidays, spun up some Hetzner VPSs, and realized there's no working iOS app. The only other one hasn't been updated since 2018. Native SwiftUI. Power controls, real-time metrics, volumes, floating IPs, firewalls, SSH keys. Multi-project support. No subscription. No tracking. Everything on-device. Face ID lock. £2.99 launch price (normally £4.99). What features would you want next?
@@ -383,7 +383,7 @@
 
 ![Hetzman — Unofficial iOS app for Hetzner](https://ph-files.imgix.net/74ec63d4-c05f-47c4-b909-b908a70789e6.png?auto=format)
 
-**关键词**：Manage Hetzner Cloud servers from your iPhone, Hetzman — Unofficial iOS app for Hetzner
+**关键词**：Hetzman — Unofficial iOS app for Hetzner, Manage Hetzner Cloud servers from your iPhone
 **票数**: 🔺7
 **是否精选**：否
 **发布时间**：2026年01月12日 PM04:01 (北京时间)
@@ -398,29 +398,14 @@
 
 ![Yumma UI](https://ph-files.imgix.net/0e6a4a80-5ea1-4cdb-93f5-7d21b3e4e55d.png?auto=format)
 
-**关键词**：Yumma UI, Beautiful UI components and templates built with Yumma CSS.
+**关键词**：Beautiful UI components and templates built with Yumma CSS., Yumma UI
 **票数**: 🔺7
 **是否精选**：否
 **发布时间**：2026年01月12日 PM04:01 (北京时间)
 
 ---
 
-## [28. Vibart](https://www.producthunt.com/products/vibart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
-**标语**： AI Vibe Design for Next-Gen Art Community
-**介绍**：Vibart is an AI-powered artboard and community for generating, editing, and sharing images, videos, and more—all in one tool with multiple AI models.
-**产品网站**: [立即访问](https://www.producthunt.com/r/5ULH3IR6IV5NNZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
-**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/products/vibart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
-
-![Vibart](https://ph-files.imgix.net/066ebd5a-7825-4049-9781-ed3591212667.png?auto=format)
-
-**关键词**：Gen Art Community, Vibart, AI Vibe Design for Next
-**票数**: 🔺6
-**是否精选**：否
-**发布时间**：2026年01月12日 PM04:01 (北京时间)
-
----
-
-## [29. Builders.to](https://www.producthunt.com/products/builders-to?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
+## [28. Builders.to](https://www.producthunt.com/products/builders-to?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
 **标语**：Ship faster. Together.
 **介绍**：A members-only launchpad for builders. Share your work in progress, get feedback from the community, and find your first users. Part of the Builders.to community on X.
 **产品网站**: [立即访问](https://www.producthunt.com/r/MQHNURTLGVSO7W?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
@@ -428,7 +413,22 @@
 
 ![Builders.to](https://ph-files.imgix.net/83316ce9-a3f8-4258-b401-86fdbbde88e6.png?auto=format)
 
-**关键词**：Ship faster. Together., Builders.to
+**关键词**：Builders.to, Ship faster. Together.
+**票数**: 🔺6
+**是否精选**：否
+**发布时间**：2026年01月12日 PM04:01 (北京时间)
+
+---
+
+## [29. Vibart](https://www.producthunt.com/products/vibart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
+**标语**： AI Vibe Design for Next-Gen Art Community
+**介绍**：Vibart is an AI-powered artboard and community for generating, editing, and sharing images, videos, and more—all in one tool with multiple AI models.
+**产品网站**: [立即访问](https://www.producthunt.com/r/5ULH3IR6IV5NNZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
+**Product Hunt**: [View on Product Hunt](https://www.producthunt.com/products/vibart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+noob+%28ID%3A+261551%29)
+
+![Vibart](https://ph-files.imgix.net/066ebd5a-7825-4049-9781-ed3591212667.png?auto=format)
+
+**关键词**：Vibart, Gen Art Community, AI Vibe Design for Next
 **票数**: 🔺6
 **是否精选**：否
 **发布时间**：2026年01月12日 PM04:01 (北京时间)
@@ -443,7 +443,7 @@
 
 ![Cofounder Hunt](https://ph-files.imgix.net/88630b1e-e33e-4b54-bafc-7b8a19ad350d.jpeg?auto=format)
 
-**关键词**：Build with founders who’ve actually delivered, Cofounder Hunt
+**关键词**：Cofounder Hunt, Build with founders who’ve actually delivered
 **票数**: 🔺5
 **是否精选**：否
 **发布时间**：2026年01月12日 PM04:01 (北京时间)
