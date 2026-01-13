@@ -1,4 +1,4 @@
-name: Daily Product Hunt Fetch
+name: Daily Fetch and Build
 
 on:
   schedule:
@@ -10,19 +10,20 @@ permissions:
   contents: write
 
 jobs:
-  fetch-and-generate:
+  update-daily-content:
     runs-on: ubuntu-latest
     
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
 
+    # 1. Python 环境：获取数据并生成 Markdown
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.10'
 
-    - name: Install dependencies
+    - name: Install Python dependencies
       run: |
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
@@ -35,15 +36,29 @@ jobs:
         PRODUCTHUNT_DEVELOPER_TOKEN: ${{ secrets.PRODUCTHUNT_DEVELOPER_TOKEN }}
       run: python scripts/product_hunt_list_to_md.py
 
+    # 2. Ruby 环境：根据 Markdown 生成 data.json
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.1'
+
+    - name: Install Ruby dependencies
+      run: |
+        gem install kramdown json || true 
+
+    - name: Build data.json
+      run: ruby build.rb
+
+    # 3. 提交所有更改
     - name: Commit and Push changes
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add data/
+        git add data/ data.json
         # 如果没有变化则不提交
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
-          git commit -m "Auto-fetch Product Hunt daily data"
+          git commit -m "Auto-update: Daily content and data.json"
           git push
         fi
