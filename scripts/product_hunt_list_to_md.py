@@ -17,14 +17,20 @@ from urllib3.util.retry import Retry
 
 # 创建 OpenAI 客户端实例
 api_key = os.getenv('OPENAI_API_KEY')
+base_url = os.getenv('OPENAI_BASE_URL')
+
 if not api_key:
     print("警告: 未设置 OPENAI_API_KEY 环境变量，将无法使用 OpenAI 服务")
     client = None
 else:
     openai.api_key = api_key
     try:
-        client = openai.Client(api_key=api_key)  # 新版本的客户端初始化方式
-        print("成功初始化 OpenAI 客户端")
+        if base_url:
+            client = openai.Client(api_key=api_key, base_url=base_url)
+            print(f"成功初始化 OpenAI 客户端，使用自定义 Base URL: {base_url}")
+        else:
+            client = openai.Client(api_key=api_key)  # 新版本的客户端初始化方式
+            print("成功初始化 OpenAI 客户端")
     except Exception as e:
         print(f"初始化 OpenAI 客户端失败: {e}")
         client = None
