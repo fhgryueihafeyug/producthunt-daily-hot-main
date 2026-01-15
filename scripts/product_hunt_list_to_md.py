@@ -15,25 +15,38 @@ import pytz
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-# 创建 OpenAI 客户端实例
-api_key = os.getenv('OPENAI_API_KEY')
+# 创建 API 客户端实例
+gemini_api_key = os.getenv('GEMINI_API_KEY')
+openai_api_key = os.getenv('OPENAI_API_KEY')
 base_url = os.getenv('OPENAI_BASE_URL')
 
-if not api_key:
-    print("警告: 未设置 OPENAI_API_KEY 环境变量，将无法使用 OpenAI 服务")
-    client = None
-else:
-    openai.api_key = api_key
+client = None
+MODEL_NAME = "gpt-4o-mini" # 默认模型
+
+if gemini_api_key:
+    print("检测到 GEMINI_API_KEY，将使用 Gemini 服务")
+    try:
+        # 使用 Google 的 OpenAI 兼容接口
+        # 默认为 Google 官方节点，也可以通过 OPENAI_BASE_URL 覆盖
+        target_base_url = base_url if base_url else "https://generativelanguage.googleapis.com/v1beta/openai/"
+        client = openai.Client(api_key=gemini_api_key, base_url=target_base_url)
+        MODEL_NAME = "gemini-1.5-flash"
+        print(f"成功初始化 Gemini 客户端 (via OpenAI SDK), Base URL: {target_base_url}, Model: {MODEL_NAME}")
+    except Exception as e:
+        print(f"初始化 Gemini 客户端失败: {e}")
+elif openai_api_key:
+    openai.api_key = openai_api_key
     try:
         if base_url:
-            client = openai.Client(api_key=api_key, base_url=base_url)
+            client = openai.Client(api_key=openai_api_key, base_url=base_url)
             print(f"成功初始化 OpenAI 客户端，使用自定义 Base URL: {base_url}")
         else:
-            client = openai.Client(api_key=api_key)  # 新版本的客户端初始化方式
+            client = openai.Client(api_key=openai_api_key)
             print("成功初始化 OpenAI 客户端")
     except Exception as e:
         print(f"初始化 OpenAI 客户端失败: {e}")
-        client = None
+else:
+    print("警告: 未设置 GEMINI_API_KEY 或 OPENAI_API_KEY 环境变量，将无法使用 AI 服务")
 
 class Product:
     def __init__(self, id: str, name: str, tagline: str, description: str, votesCount: int, createdAt: str, featuredAt: str, website: str, url: str, media=None, **kwargs):
@@ -140,7 +153,7 @@ class Product:
             try:
                 print(f"正在翻译 {self.name} 的内容...")
                 response = client.chat.completions.create(
-                    model="gpt-4o-mini",
+                    model=MODEL_NAME,
                     messages=[
                         {"role": "system", "content": "你是世界上最专业的翻译工具，擅长英文和中文互译。你是一位精通英文和中文的专业翻译，尤其擅长将IT公司黑话和专业词汇翻译成简洁易懂的地道表达。你的任务是将以下内容翻译成地道的中文，风格与科普杂志或日常对话相似。"},
                         {"role": "user", "content": text},
